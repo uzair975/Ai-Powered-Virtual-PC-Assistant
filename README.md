@@ -112,8 +112,7 @@ Some UI-only features can run on other platforms, but several command actions su
 1. Clone the repository:
 
 ```powershell
-git clone https://github.com/your-username/jarvis-ai-assistant.git
-cd jarvis-ai-assistant
+git clone https://github.com/uzair975/Ai-Powered-Virtual-PC-Assistant
 ```
 
 2. Create and activate a virtual environment:
