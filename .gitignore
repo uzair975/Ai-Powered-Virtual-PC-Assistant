@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and runtime output
+*.log
+logs/
+conversation_export_*.txt
+command_history_*.txt
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Model/cache files
+silero_vad.onnx
+.cache/
+models/
+
+# IDE/editor
+.idea/
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
