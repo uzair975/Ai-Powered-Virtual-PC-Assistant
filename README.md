@@ -95,20 +95,6 @@ python gesture.py
     |-- right_panel.py         # Right-side UI layout
     `-- styles.py              # Application theme
 ```
-## Screenshots
-
-### Main Interface
-
-![Main Interface](assets/screenshots/main-ui.png)
-
-### Demo Mode
-
-![Demo Mode](assets/screenshots/demo-mode.png)
-
-### Gesture Control
-
-![Gesture Control](assets/screenshots/gesture-control.png)
-
 
 ## Requirements
 
